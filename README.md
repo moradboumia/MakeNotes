@@ -1,6 +1,6 @@
-# 📒 MyNotes – Simple & Fast Notes App
+# 📒 MakeNotes – Simple & Fast Notes App
 
-MyNotes is a clean, modern Android notes application built using **Kotlin**, **Jetpack Compose**, and **Room Database**.  
+MakeNotes is a clean, modern Android notes application built using **Kotlin**, **Jetpack Compose**, and **Room Database**.  
 It focuses on **simplicity**, **speed**, and a smooth user experience with a stylish dark/light mode interface.
 
 ---
