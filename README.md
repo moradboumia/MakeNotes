@@ -1,7 +1,7 @@
 # 📒 MakeNotes – Simple & Fast Notes App
 
 MakeNotes is a clean, modern Android notes application built using **Kotlin**, **Jetpack Compose**, and **Room Database**.  
-It focuses on **simplicity**, **speed**, and a smooth user experience with a stylish dark/light mode interface.
+It focuses on **simplicity**, **speed**.
 
 ---
 
@@ -31,6 +31,7 @@ It focuses on **simplicity**, **speed**, and a smooth user experience with a sty
 
 > Screenshot (uploaded):
 ![App Screenshot](note_app_screenshot/Screenshot_20251124-172017.jpg)
+> ![App Screenshot](note_app_screenshot/Screenshot_20251124-172020.jpg)
 
 ---
 
