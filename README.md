@@ -30,7 +30,7 @@ It focuses on **simplicity**, **speed**, and a smooth user experience with a sty
 ## 📸 Screenshots
 
 > Screenshot (uploaded):
-![App Screenshot]()
+![App Screenshot](note_app_screenshot/Screenshot_20251124-172017.jpg)
 
 ---
 
