@@ -25,13 +25,6 @@ It focuses on **simplicity**, **speed**.
 - Rounded material cards  
 - Clean typography
 
----
-
-## 📸 Screenshots
-
-> Screenshot (uploaded):
-![App Screenshot](note_app_screenshot/Screenshot_20251124-172017.jpg)
-> ![App Screenshot](note_app_screenshot/Screenshot_20251124-172020.jpg)
 
 ---
 
